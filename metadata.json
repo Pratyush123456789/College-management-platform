@@ -1,0 +1,8 @@
+{
+  "name": "College Management Platform — Delhi Technical Campus",
+  "description": "A complete digital ecosystem for campus life at Delhi Technical Campus, Greater Noida (Affiliated to GGSIPU, approved by AICTE & COA) featuring Student, Faculty, Parent, and Campus Operations portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
